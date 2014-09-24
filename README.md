@@ -43,4 +43,4 @@ Use my template or roll your own.
 
 ## Contributions
 
-...are welcomed via pull request. Check the issues list first.
+...are welcomed via pull request. Check the [issues list](https://github.com/burnbright/silverstripe-listsorter/issues) first.
